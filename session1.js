@@ -28,3 +28,13 @@
   return 0
   }
   
+
+//   ================= natural summ
+
+function findQuad()
+{
+  let n=10;
+  
+  return n*(n+1)/2
+ 
+}
